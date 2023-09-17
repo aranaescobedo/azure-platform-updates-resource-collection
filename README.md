@@ -11,6 +11,9 @@
 - [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
+  ### Container Insights
+  - [Metric alert rules in Container insights](https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-metric-alerts?tabs=arm-template%2Cazure-portal#configure-alertable-metrics-in-configmaps)
+
 
 ## Blogs and News
 
