@@ -1,6 +1,8 @@
-# Azure Platform Updates Hub
-
-The repository is to gather various links and sources for staying up-to-date with the Azure platform.
+<p align="center">
+ <img width="100px" src=".images/azure.svg" align="center" alt="Azure" />
+ <h2 align="center">Azure Platform Updates Hub</h2>
+ <p align="center">The repository is to gather various links and sources for staying up-to-date with the Azure platform!</p>
+</p>
 
 ## Azure
 
