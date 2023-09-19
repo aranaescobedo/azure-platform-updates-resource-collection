@@ -21,6 +21,9 @@
 - [Freek Berson](https://fberson.medium.com/)
 - [Stefan Ivemo](https://blog.ivemo.se/)
 
+## Emojis
+- [Emojis that can be used in your README files](https://emojipedia.org/)
+
 ---
 
 _Stay ahead with the latest in the world of Azure!!_
