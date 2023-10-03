@@ -10,6 +10,7 @@
 - [Azure Updates](https://azure.microsoft.com/en-us/updates/)
 - [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+- [KQL search v2](https://kql-search-2.vercel.app/)
 
   ### Container Insights
   - [Metric alert rules in Container insights](https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-metric-alerts?tabs=arm-template%2Cazure-portal#configure-alertable-metrics-in-configmaps)
